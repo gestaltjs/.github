@@ -2,6 +2,4 @@
 
 Gestalt is a German word that roughly means "configuration," or the way things are put together to form a whole object. A core belief in Gestalt psychology is [holism](https://www.verywellmind.com/what-is-holism-4685432), or that **the whole is greater than the sum of its parts**. 
 
-GestaltJS is inspired by that idea. It builds upon the [Chimera](https://github.com/gestaltjs/chimera) compiler to create **an opinionated and batteries-included framework** that, like [Rails](https://rubyonrails.org/), sparks joy when using it. It does so by providing convenient abstractions and workflows that [conceptually compress](https://m.signalvnoise.com/conceptual-compression-means-beginners-dont-need-to-know-sql-hallelujah/) the intricacies of building web apps and sites. 
-
-Unlike many modern Javascript frameworks that build upon a convoluted setup of tools and abstractions, GestaltJS **embraces standards** like [ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules), and runs your code without passing it through a pipeline of AST-based tools that add unnecessary indirection that's hard to maintain and debug.
+GestaltJS is inspired by that idea. It's **an opinionated and batteries-included framework** that, like [Rails](https://rubyonrails.org/), sparks joy when using it. It does so by providing convenient abstractions and workflows that [conceptually compress](https://m.signalvnoise.com/conceptual-compression-means-beginners-dont-need-to-know-sql-hallelujah/) the intricacies of building web apps and sites. 
