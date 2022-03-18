@@ -4,4 +4,4 @@ Gestalt is a German word that roughly means "configuration," or the way things a
 
 GestaltJS is inspired by that idea. It's **an opinionated and batteries-included framework** that, like [Rails](https://rubyonrails.org/), sparks joy when using it. It does so by providing convenient abstractions and workflows that [conceptually compress](https://m.signalvnoise.com/conceptual-compression-means-beginners-dont-need-to-know-sql-hallelujah/) the intricacies of building web apps and sites. 
 
-Join our [Discord server](https://discord.gg/7gvRstAKTU) to chat with users, contributors, and maintainers of the framework.
+Join our [Slack group](https://join.slack.com/t/gestaltjs/shared_invite/zt-14azp22s4-sAWlH63i4K7_3DWfbxGvXw) to chat with users, contributors, and maintainers of the framework.
