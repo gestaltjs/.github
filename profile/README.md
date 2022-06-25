@@ -1,4 +1,4 @@
-# GestaltJS
+# Gestalt
 
 Gestalt is a German word that roughly means "configuration," or the way things are put together to form a whole object. A core belief in Gestalt psychology is [holism](https://www.verywellmind.com/what-is-holism-4685432), or that **the whole is greater than the sum of its parts**. 
 
